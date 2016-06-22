@@ -6,3 +6,4 @@ Git tracks changes of files.
 merge with no fast forward
 
 new 
+new test
