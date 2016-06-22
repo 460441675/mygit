@@ -4,3 +4,7 @@ Git has a mutable index called stage.
 Git tracks changes.
 Git tracks changes of files.
 merge with no fast forward
+
+new 
+
+new 1
